@@ -19,5 +19,5 @@ As páginas web implementadas são as seguintes:
 
 ## Resultados
 O código da solução pode ser encontrado nos seguintes ficheiros: 
-[server.js](https://github.com/filipel65/EngWeb2025/blob/main/TPC2/server.js) - ficheiro com a implementação da lógica do servidor web, incluindo o fetching dos dados a partir do json-server
-[mypages.js](https://github.com/filipel65/EngWeb2025/blob/main/TPC2/mypages.js) - ficheiro com a implementação das páginas web em html
+[server.js](https://github.com/filipel65/EngWeb2025-A104185/blob/main/TPC2/server.js) - ficheiro com a implementação da lógica do servidor web, incluindo o fetching dos dados a partir do json-server
+[mypages.js](https://github.com/filipel65/EngWeb2025-A104185/blob/main/TPC2/mypages.js) - ficheiro com a implementação das páginas web em html
